@@ -19,15 +19,15 @@ public class TestClass1 {
 		Thread.sleep(3000);
 		LoginPage loginpage = new LoginPage(driver);
 		loginpage.clickloginbutton();
-		Thread.sleep(3000);
-		HomePage homepage = new HomePage(driver);
-		homepage.clickshopingbag();
-		Thread.sleep(3000);
-		AddtoCart addtocart = new AddtoCart(driver);
-		addtocart.clickcontinew();
-		Thread.sleep(5000);
-		Backtohome backtohome  = new Backtohome(driver);
-		backtohome.clicklogout();
+//		Thread.sleep(3000);
+//		HomePage homepage = new HomePage(driver);
+//		homepage.clickshopingbag();
+//		Thread.sleep(3000);
+//		AddtoCart addtocart = new AddtoCart(driver);
+//		addtocart.clickcontinew();
+//		Thread.sleep(5000);
+//		Backtohome backtohome  = new Backtohome(driver);
+//		backtohome.clicklogout();
 		
 		
 		
